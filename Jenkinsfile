@@ -36,7 +36,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is master branch"
+                    echo "This is a master branch"
                 }
             
         }
